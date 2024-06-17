@@ -1,10 +1,9 @@
-### Jailton Silva
-#### FULL STACK DEVELOPER | PYTHON
-I'm a full-stack developer who enjoys solving problems and sharing knowledge, with 4+ years of experience, my mission is to deliver scalable, testable and performatic software that matters.
+#### A PYTHON FULL-STACK DEVELOPER
+Hello, I'm a Python Full-Stack Developer who enjoys solving problems and sharing knowledge, with 4+ years of experience, my mission is to deliver scalable, testable and performatic software that matters.
 
-Working with Python and Javascript I have experience with WEB Scraping, WEB API Design and Development, Systems Integration and more.
+Working with Python and Javascript for Brazilian startups I have experience in all fases of software development including WEB Scraping, Design and Development of WEB API, Systems Integration and more.
 
-Feel free to get in touch with me in my [LinkedIn Profile](https://www.linkedin.com/in/Jailton-silva-01235a18b/).
+Feel free to get in touch with me on my [LinkedIn Profile](https://www.linkedin.com/in/Jailton-silva-01235a18b/).
 
 Skills: PYTHON | DJANGO | DRF | FASTAPI | JAVASCRIPT | VUEJS | REACT | DOCKER | AWS | SQL | POSTGRESQL
 
