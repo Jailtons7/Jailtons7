@@ -1,7 +1,7 @@
 #### A PYTHON FULL-STACK DEVELOPER
 Hello, I'm a Python Full-Stack Developer who enjoys solving problems and sharing knowledge, with 4+ years of experience, my mission is to deliver scalable, testable and performatic software that matters.
 
-Working with Python and Javascript for Brazilian startups I have experience in all fases of software development including WEB Scraping, Design and Development of WEB API, Systems Integration and more.
+Working with Python and Javascript for Brazilian startups I have experience in all phases of software development including WEB Scraping, Design and Development of WEB APIs, Systems Integration and more.
 
 Feel free to get in touch with me on my [LinkedIn Profile](https://www.linkedin.com/in/Jailton-silva-01235a18b/).
 
